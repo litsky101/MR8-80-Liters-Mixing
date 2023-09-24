@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MR_8_80_Liters_Mixing_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MIXING_DB" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Server=localhost;Database=Mixing;Username=test;Password=test;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Server=localhost;Database=Mixing;Username=test;Password=test;</Value>
+    </Setting>
+    <Setting Name="MOXA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.24.146.115</Value>
+    </Setting>
+    <Setting Name="MR8B1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4002</Value>
+    </Setting>
+    <Setting Name="MR8B2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4002</Value>
+    </Setting>
+    <Setting Name="MR8A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4002</Value>
+    </Setting>
+    <Setting Name="MR_RELEASING" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4002</Value>
+    </Setting>
+    <Setting Name="KEMISORB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4003</Value>
+    </Setting>
+    <Setting Name="DYESTUFF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4004</Value>
+    </Setting>
+    <Setting Name="MRCAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4005</Value>
+    </Setting>
+    <Setting Name="MONOMER_TYPE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UV,UV-BLUE</Value>
+    </Setting>
+    <Setting Name="TANK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4002</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

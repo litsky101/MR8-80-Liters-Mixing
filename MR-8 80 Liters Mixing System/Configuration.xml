@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configurations>
+  <Server>
+    <ID>MIXING_DB</ID>
+    <Location>Server=localhost;Database=Mixing;Username=test;Password=test;</Location>
+  </Server>
+
+  <Socket>
+    <ID>MOXA</ID>
+    <Port>10.24.146.115</Port>
+  </Socket>
+
+  <Socket>
+    <ID>MR8B1</ID>
+    <Port>4002</Port>
+  </Socket>
+
+  <Socket>
+    <ID>MR8B2</ID>
+    <Port>4002</Port>
+  </Socket>
+
+  <Socket>
+    <ID>MR8A</ID>
+    <Port>4002</Port>
+  </Socket>
+
+  <Socket>
+    <ID>TANK</ID>
+    <Port>4002</Port>
+  </Socket>
+
+  <Socket>
+    <ID>MR_RELEASING</ID>
+    <Port>4002</Port>
+  </Socket>
+
+  <Socket>
+    <ID>KEMISORB</ID>
+    <Port>4003</Port>
+  </Socket>
+
+  <Socket>
+    <ID>DYESTUFF</ID>
+    <Port>4004</Port>
+  </Socket>
+
+  <Socket>
+    <ID>MRCAT</ID>
+    <Port>4005</Port>
+  </Socket>
+
+  <Monomer>
+    <ID>MONOMER_TYPE</ID>
+    <Port>UV,UV-BLUE</Port>
+  </Monomer>
+  
+</Configurations>
